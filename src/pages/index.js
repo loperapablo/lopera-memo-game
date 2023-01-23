@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import { useEffect, useState } from 'react';
-import Board from './components/Board/Board';
+import Board from './components/Board';
 const emojiList = [...'💣🧤🎩🌮🎱🌶🍕🦖'];
 
 export default function Home() {
